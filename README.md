@@ -2,11 +2,11 @@
 WEBSITE
 [index.html](https://github.com/user-attachments/files/31578515/index.html)
 <!DOCTYPE html>
-<html lang="en">
+<html lang="EnHeart Studios">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Enheart Studios — Art Therapy for Healing Communities</title>
+<title>EnHeart Studios: Creative Expression for Healing Communities</title>
 <meta name="description" content="Enheart Studios brings expressive art therapy to individuals and communities through sessions, workshops, and public art initiatives.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300..700;1,300..700&family=Work+Sans:wght@400;500;600;700&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
